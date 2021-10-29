@@ -2,7 +2,7 @@
     "title": "Stackbit Starter Theme",
     "header": {
         "title": "Feztsu",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Features",
