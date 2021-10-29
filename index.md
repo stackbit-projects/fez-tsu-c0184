@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: ¿Quién soy?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Soy un animador 2d iniciándose en el mundo de la animación, también la
+      programación y el arte. Me podría considerar un multipotencial aunque
+      siento que todos lo somos.
     actions:
       - label: Learn More
         url: /features
