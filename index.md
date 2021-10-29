@@ -41,7 +41,7 @@ sections:
           desmotivarme me gusta más ya que curiosamente amo esa región del
           mundo.
         align: left
-        image: images/feature.svg
+        image: images/Fez kurukuru cruller-Background Oscuro.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
