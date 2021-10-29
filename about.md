@@ -5,19 +5,20 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+    content: >
+      De pequeño siempre me empezó a gustar el **anime japonés** como dragon
+      ball, también los **creadores de contenido** como **Fernanfloo y más**. Y
+      en los primeros años de mi secundaria la **música.**
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      Se que perseguir lo que quería y quiero crear de pequeño (no siempre es
+      buena idea) pero es bueno intentarlo. También se que va a ser muy difícil
+      cumplir ese Yume y sumando que soy de Latinoamérica. En vez de
+      desmotivarme me gusta más ya que curiosamente amo esa región del mundo.
+
+
+      Así también ser un escritor creando obras filosóficas, ciencia o ficción.
+      (original)
   - type: team_section
     title: Our Team
     team:
