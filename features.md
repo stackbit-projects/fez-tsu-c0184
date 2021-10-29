@@ -19,7 +19,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-        title: a
+        title: Ser un Youtuber/Creador de contenido/Animador/Atisuto
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
