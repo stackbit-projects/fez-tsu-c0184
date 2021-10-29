@@ -29,10 +29,17 @@ sections:
     title: ¿Qué es lo que quiero hacer?
     features:
       - title: Ser un Youtuber/Creador de contenido/Animador/Atisuto
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          De pequeño siempre me empezó a gustar el **anime japonés** como dragon
+          ball, también los **creadores de contenido** como **Fernanfloo y
+          más**. Y en los primeros años de mi secundaria la **música.**
+
+
+          Se que perseguir lo que quería y quiero crear de pequeño (no siempre
+          es buena idea) pero es bueno intentarlo. También se que va a ser muy
+          difícil cumplir ese Yume y sumando que soy de Latinoamérica. En vez de
+          desmotivarme me gusta más ya que curiosamente amo esa región del
+          mundo.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
