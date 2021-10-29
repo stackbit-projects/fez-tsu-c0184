@@ -28,7 +28,7 @@ sections:
   - type: features_section
     title: ¿Qué es lo que quiero hacer?
     features:
-      - title: Feature 1
+      - title: Ser un Youtuber/Creador de contenido/Animador/Atisuto
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
