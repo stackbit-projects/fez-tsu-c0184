@@ -48,7 +48,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Un Estudio de Animación en Latinoamerica
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
