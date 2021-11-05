@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/BNYU09rw-4b32181a.jpeg
 image_alt: Post 5 placeholder image
 excerpt: ¿Sabes cuales son los 12 principios de animación dados por walt disney?
 seo:
