@@ -70,7 +70,7 @@ sections:
         url: /features
         style: primary
     has_background: true
-    background_color: gray
+    background_color: blue
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
