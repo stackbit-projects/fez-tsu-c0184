@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Bocetos
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Son parte de mis dibujos
     align: center
   - type: features_section
     features:
