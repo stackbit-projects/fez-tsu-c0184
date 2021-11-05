@@ -45,4 +45,14 @@ con las bases de animación, eran perfeccionista y tenían una gran vista para p
 
 ## **Squash & Strech**
 
-Es uno de los principios más importantes porque simulan el peso y masa de dicho objeto que animemos ![](https://i.pinimg.com/originals/e5/92/8c/e5928c26c186835ae2e22d3473a6c454.gif)
+Es uno de los principios más importantes porque simulan el peso y masa de dicho objeto que animemos 
+
+
+
+
+
+
+
+![](https://i.pinimg.com/originals/e5/92/8c/e5928c26c186835ae2e22d3473a6c454.gif)
+
+ Para crear este efecto con la pelota solo tenemos que cuando toque el suelo se aplaste haciéndola más larga y más delgada, como si estuviera aplastada.
