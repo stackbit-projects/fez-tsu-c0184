@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Principios de animación
 date: '2020-06-02'
 author: _data/team/gordon-norman.yaml
 categories:
