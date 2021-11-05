@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Bocetos
+    title: Art
     align: center
   - type: features_section
     features:
