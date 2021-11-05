@@ -60,7 +60,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-        image: images/Kurumi gotica.jpg
+        image: images/Fez tierno Kodomo.jpg
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
