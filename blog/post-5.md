@@ -43,7 +43,6 @@ También puedes encontrar información de los 12 principios de animación en el 
 Empecemos! primero remontémonos en la historia de la animación desde 1937 Disney Y Walt Disney mejoro el arte de la animación,
 con las bases de animación, eran perfeccionista y tenían una gran vista para poder hacer animaciones tan buenas, los que reinventaron la animación fueron Frank Thomas y Ollie Johnston Los 9 ancianos de Disney.
 
-## **Squash and Strech**
+## **Squash & Strech**
 
 Es uno de los principios más importantes porque simulan el peso y masa de dicho objeto que animemos ![](https://i.pinimg.com/originals/e5/92/8c/e5928c26c186835ae2e22d3473a6c454.gif)
-
