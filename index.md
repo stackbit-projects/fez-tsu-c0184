@@ -60,6 +60,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+        image: images/Kurumi gotica.jpg
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
