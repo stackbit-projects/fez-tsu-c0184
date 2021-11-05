@@ -20,7 +20,7 @@ sections:
             url: /about
             style: primary
         title: Arts
-      - title: Feature 2
+      - title: Animations
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
