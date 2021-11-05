@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Art
+    title: Art and Animation
     align: center
   - type: features_section
     features:
