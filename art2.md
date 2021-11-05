@@ -31,10 +31,8 @@ sections:
             url: /style-guide
             style: primary
       - title: Frame a frame
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |
+          Muestra una hoja al convertirse en un ave 
         align: left
         image: images/Straight Ahead action and pose to pose.gif
         image_alt: Feature 3 placeholder image
