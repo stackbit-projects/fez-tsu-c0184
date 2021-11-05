@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Bocetos
 seo:
   title: ''
   description: ''
