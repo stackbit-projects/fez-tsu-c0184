@@ -89,6 +89,8 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 ## **7. Arcs**
 
+****
+
 ## **8. Secondary Action**
 
 ## **9. Timing**
@@ -97,4 +99,4 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 ## **11. Solid Drawing**
 
-## **12. Appeal**
+## **12. Appeal**![](images/this-naruto-movie-is-looking-good.gif)
