@@ -55,7 +55,9 @@ Para crear este efecto con la pelota solo tenemos que cuando toque el suelo se a
 
 Es una anticipación que le damos al espectador una anticipación de la acción, usando correctamente las proporciones
 
-![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anticipation%20Women%20v2.gif)Por ejemplo, podemos ver como la chica anticipa antes de golpear.
+Por ejemplo, podemos ver como la chica anticipa antes de golpear.
+
+![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anticipation%20Women%20v2.gif)
 
 ## **3. Staging**
 
