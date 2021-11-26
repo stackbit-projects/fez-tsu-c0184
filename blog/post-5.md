@@ -53,11 +53,19 @@ Para crear este efecto con la pelota solo tenemos que cuando toque el suelo se a
 
 ## **2. Anticipation**
 
-**Es una anticipación que le damos al espectador una anticipación de la acción, usando correctamente las proporciones**
+Es una anticipación que le damos al espectador una anticipación de la acción, usando correctamente las proporciones
 
-![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anticipation%20Women%20v2.gif)**Por ejemplo, podemos ver como la chica anticipa antes de golpear.**
+![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anticipation%20Women%20v2.gif)Por ejemplo, podemos ver como la chica anticipa antes de golpear.
 
 ## **3. Staging**
+
+Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.
+
+****![](images/Pan-No%20Background.gif)
+
+****
+
+Por ejemplo, cuando queremos dar una expresión de un personaje acercamos la **"cámara"** al rostro.
 
 ## **4. Straight Ahead Action and Pose to Pose**
 
