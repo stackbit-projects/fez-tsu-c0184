@@ -59,21 +59,11 @@ Por ejemplo, podemos ver como la chica anticipa antes de golpear.
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anticipation%20Women%20v2.gif)
 
-## **3. Staging**
+## ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pan.gif)**3. Staging**
 
-Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pan.gif)![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pan.gif)
+Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pan.gif)![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pan.gif)![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pan.gif)
 
 ![](images/Background.jpg)
-
-
-
-
-
-
-
-
-
-
 
 Por ejemplo, cuando queremos dar una expresión de un personaje acercamos la **"cámara"** al rostro.![](https://preview--fez-tsu-c0184.stackbit.dev/images/8a4623df7813a01119687559b59e158b.gif)
 
