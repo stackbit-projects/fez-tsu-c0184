@@ -51,15 +51,13 @@ Es uno de los principios más importantes porque simulan el peso y masa de dicho
 
 Para crear este efecto con la pelota solo tenemos que cuando toque el suelo se aplaste haciéndola más larga y más delgada, como si estuviera aplastada.
 
-
-
 ## **2. Anticipation**
 
 **Es una anticipación que le damos al espectador una anticipación de la acción, usando correctamente las proporciones**
 
-
-
 **Por ejemplo, podemos ver como la chica anticipa antes de golpear.**
+
+****![](images/Anticipation%20Women%20v2.gif)
 
 ## **3. Staging**
 
