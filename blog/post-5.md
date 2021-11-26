@@ -61,9 +61,7 @@ Es una anticipación que le damos al espectador una anticipación de la acción,
 
 Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pan-No%20Background.gif)
 
-
-
-Por ejemplo, cuando queremos dar una expresión de un personaje acercamos la **"cámara"** al rostro.
+Por ejemplo, cuando queremos dar una expresión de un personaje acercamos la **"cámara"** al rostro.![](https://preview--fez-tsu-c0184.stackbit.dev/images/8a4623df7813a01119687559b59e158b.gif)
 
 ![](images/8a4623df7813a01119687559b59e158b.gif)
 
