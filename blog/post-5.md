@@ -43,16 +43,40 @@ También puedes encontrar información de los 12 principios de animación en el 
 Empecemos! primero remontémonos en la historia de la animación desde 1937 Disney Y Walt Disney mejoro el arte de la animación,
 con las bases de animación, eran perfeccionista y tenían una gran vista para poder hacer animaciones tan buenas, los que reinventaron la animación fueron Frank Thomas y Ollie Johnston Los 9 ancianos de Disney.
 
-## **Squash & Strech**
+## **1.Squash & Strech**
 
-Es uno de los principios más importantes porque simulan el peso y masa de dicho objeto que animemos 
-
-
-
-
-
-
+Es uno de los principios más importantes porque simulan el peso y masa de dicho objeto que animemos
 
 ![](https://i.pinimg.com/originals/e5/92/8c/e5928c26c186835ae2e22d3473a6c454.gif)
 
- Para crear este efecto con la pelota solo tenemos que cuando toque el suelo se aplaste haciéndola más larga y más delgada, como si estuviera aplastada.
+Para crear este efecto con la pelota solo tenemos que cuando toque el suelo se aplaste haciéndola más larga y más delgada, como si estuviera aplastada.
+
+
+
+## **2. Anticipation**
+
+**Es una anticipación que le damos al espectador una anticipación de la acción, usando correctamente las proporciones**
+
+
+
+**Por ejemplo, podemos ver como la chica anticipa antes de golpear.**
+
+## **3. Staging**
+
+## **4. Straight Ahead Action and Pose to Pose**
+
+## **5. Follow Through and Overlapping Action**
+
+## **6. Slow in and Slow out**
+
+## **7. Arcs**
+
+## **8. Secondary Action**
+
+## **9. Timing**
+
+## **10. Exaggeration**
+
+## **11. Solid Drawing**
+
+## **12. Appeal**
