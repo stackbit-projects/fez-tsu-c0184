@@ -59,7 +59,7 @@ Es una anticipación que le damos al espectador una anticipación de la acción,
 
 ## **3. Staging**
 
-Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.
+Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pan-No%20Background.gif)
 
 ![](images/Pan-No%20Background.gif)
 
