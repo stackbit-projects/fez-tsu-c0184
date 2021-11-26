@@ -75,6 +75,10 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 ***
 
+***
+
+***
+
 ## **6. Slow in and Slow out**
 
 ## **7. Arcs**
