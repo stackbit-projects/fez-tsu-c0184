@@ -63,8 +63,6 @@ Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejo
 
 Por ejemplo, cuando queremos dar una expresión de un personaje acercamos la **"cámara"** al rostro.![](https://preview--fez-tsu-c0184.stackbit.dev/images/8a4623df7813a01119687559b59e158b.gif)
 
-![](images/8a4623df7813a01119687559b59e158b.gif)
-
 ## **4. Straight Ahead Action and Pose to Pose**
 
 ## **5. Follow Through and Overlapping Action**
