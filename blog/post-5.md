@@ -61,7 +61,7 @@ Por ejemplo, podemos ver como la chica anticipa antes de golpear.
 
 ## **3. Staging**
 
-Es lo que vemos en escena como una cámara, lo que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.
+Es lo que vemos en escena como una cámara, l![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pan.gif)o que quieren que veamos de la mejor forma posible o convenientemente posible, **también ayuda a contar la historia** que se quiere transmitir.
 
 ![](images/Pan.gif)
 
