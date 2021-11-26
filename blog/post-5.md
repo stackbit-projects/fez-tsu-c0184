@@ -71,9 +71,7 @@ Por ejemplo, cuando queremos dar una expresión de un personaje acercamos la **"
 
 Es la animación frame a frame, también conocida como la animación tradicional, en esta forma de animación pose a pose existen dos métodos distintos la animación directa es animando uno tras otro con un "orden" y Pose a pose se trata de dibujar primero los fotogramas claves para solo rellenas los huecos faltantes, los buenos animadores suelen combinar estas 2 técnicas.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Sequences.gif)
 
-## **5. Follow Through and Overlapping Action**
-
-***
+## ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Mu%C3%B1eco%20Ratoncito%20shine-4d1e12a1.gif)**5. Follow Through and Overlapping Action**![](images/Mu%C3%B1eco%20Ratoncito%20shine-4d1e12a1.gif)
 
 ***
 
