@@ -75,9 +75,9 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 **La inercia es la sensación de un objeto se sienta como tal y se mueva con naturalidad ante nuestros ojos.**
 
-**Por ejemplo este muñeco ratoncito se siente liviano y suave**
+**Por ejemplo este muñeco ratoncito se siente liviano y suave**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Mu%C3%B1eco%20Ratoncito%20shine.gif)
 
-****![](images/Mu%C3%B1eco%20Ratoncito%20shine.gif)
+![](images/Mu%C3%B1eco%20Ratoncito%20shine.gif)
 
 ## **6. Slow in and Slow out**
 
