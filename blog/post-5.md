@@ -77,15 +77,9 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 **Por ejemplo este muñeco ratoncito se siente liviano y suave**
 
-***
+****![](images/Mu%C3%B1eco%20Ratoncito%20shine.gif)
 
 ## **6. Slow in and Slow out**
-
-***
-
-***
-
-***
 
 ## **7. Arcs**
 
@@ -97,4 +91,4 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 ## **11. Solid Drawing**
 
-**12. Appeal**
+## **12. Appeal**
