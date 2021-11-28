@@ -79,29 +79,11 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 ## **6. Slow in and Slow out**
 
-****
+***
 
-****
+***
 
-****![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
-
-****
-
-****
-
-****
-
-****
-
-****
-
-****
-
-****
-
-****
-
-****![](images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)****
+![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
 
 ## **7. Arcs**
 
