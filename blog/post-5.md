@@ -77,13 +77,17 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 **Por ejemplo este muñeco ratoncito se siente liviano y suave**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Mu%C3%B1eco%20Ratoncito%20shine.gif)
 
-## **6. Slow in and Slow out**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
+## **6. Slow in and Slow out**
+
+****
+
+****![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
 
 ***
 
 ***
 
-![](images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
+
 
 ## **7. Arcs**
 
