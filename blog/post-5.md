@@ -97,7 +97,7 @@ Es la medida del tiempo que se demora en realizar cierta acción, en la animaci�
 
 ## **10. Exaggeration**
 
-En la animación para dar una sensación más allá, se usa la exageración como recurso, para poder darle más vida a nuestros personajes.
+En la animación para dar una sensación más allá, se usa la exageración como recurso, para poder darle más vida a nuestros personajes.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Usseewa%20Ver-3.gif)
 
 ![](images/Usseewa%20Ver-3.gif)
 
