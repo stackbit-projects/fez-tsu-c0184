@@ -81,6 +81,8 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 Es la aceleración y la desaceleración, el efecto del movimiento que hace creer que un objeto va con más velocidad o va más lento.
 
+![](images/Pelota%20SIN%20Slow%20in%20%20Slow%20out.gif)
+
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
 
 ## **7. Arcs**
@@ -113,4 +115,3 @@ Es el carisma o lo que atrae y expresa el personaje , asiéndonos simpatizar o i
 (No necesariamente tiene que ser bonito)
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Appeal.gif)
-
