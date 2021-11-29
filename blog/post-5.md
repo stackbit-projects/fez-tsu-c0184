@@ -43,8 +43,6 @@ También puedes encontrar información de los 12 principios de animación en el 
 Empecemos! primero remontémonos en la historia de la animación desde 1937 Disney Y Walt Disney mejoro el arte de la animación,
 con las bases de animación, eran perfeccionista y tenían una gran vista para poder hacer animaciones tan buenas, los que reinventaron la animación fueron Frank Thomas y Ollie Johnston Los 9 ancianos de Disney.
 
-![](images/walt_disney-co.jpg)
-
 ## **Los 12 Principios de Animación del libro "The illusion of life"**
 
 ## **1.Squash & Strech**
