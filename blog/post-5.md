@@ -99,7 +99,7 @@ Es la medida del tiempo que se demora en realizar cierta acción, en la animaci�
 
 En la animación para dar una sensación más allá, se usa la exageración como recurso, para poder darle más vida a nuestros personajes.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Usseewa%20Ver-3.gif)
 
-## \*\*\*\*![](https://preview--fez-tsu-c0184.stackbit.dev/images/Rabuka.gif)
+## ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Rabuka.gif)
 
 ![](images/Rabuka.gif)
 
