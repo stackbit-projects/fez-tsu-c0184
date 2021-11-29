@@ -95,8 +95,6 @@ Es toda aquel objeto o acción secundaria , miren el cinturón de la chica esta 
 
 Es la medida del tiempo que se demora en realizar cierta acción, en la animación frame a frame usamos más fotogramas para hacer más lenta la acción y usamos menos para que vaya más veloz la acción.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Timing%20women%20taekwondo.gif)
 
-
-
 ## **10. Exaggeration**
 
 En la animación para dar una sensación más allá, se usa la exageración como recurso, para poder darle más vida a nuestros personajes.
