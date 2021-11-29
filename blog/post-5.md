@@ -114,4 +114,3 @@ Es el carisma o lo que atrae y expresa el personaje , asiéndonos simpatizar o i
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Appeal.gif)
 
-![](images/Appeal.gif)
