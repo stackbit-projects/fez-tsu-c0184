@@ -91,9 +91,13 @@ Cada movimiento que hacemos siguen arcos, donde le da más coherencia y más ent
 
 Es toda aquel objeto o acción secundaria , miren el cinturón de la chica esta animada con un pequeño retraso, para que, de una sensación de realismo y mayor satisfacción visual, o el pan.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Cintur%C3%B3n.gif)
 
-![](images/Cintur%C3%B3n.gif)
+
 
 ## **9. Timing**
+
+Es la medida del tiempo que se demora en realizar cierta acción, en la animación frame a frame usamos más fotogramas para hacer más lenta la acción y usamos menos para que vaya más veloz la acción.
+
+![](images/Timing%20women%20taekwondo.gif)
 
 ## **10. Exaggeration**
 
