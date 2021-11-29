@@ -105,7 +105,7 @@ En la animación para dar una sensación más allá, se usa la exageración como
 
 ## **11. Solid Drawing**
 
-Nuestro dibujo en el momento de animar tiene que ser sólido y consistente pensando en 3D, hasta podemos usar software 3d como blender para tener las mejores referencias posibles.
+Nuestro dibujo en el momento de animar tiene que ser sólido y consistente pensando en 3D, hasta podemos usar software 3d como blender para tener las mejores referencias posibles.![](https://preview--fez-tsu-c0184.stackbit.dev/images/60%20Fps%20Fezu.gif)
 
 ![](images/60%20Fps%20Fezu.gif)
 
