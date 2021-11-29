@@ -71,17 +71,17 @@ Por ejemplo, cuando queremos dar una expresión de un personaje acercamos la **"
 
 ## **4. Straight Ahead Action and Pose to Pose**
 
-Es la animación frame a frame, también conocida como la animación tradicional, en esta forma de animación pose a pose existen dos métodos distintos la animación directa es animando uno tras otro con un "orden" y Pose a pose se trata de dibujar primero los fotogramas claves para solo rellenas los huecos faltantes, los buenos animadores suelen combinar estas 2 técnicas.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Sequences.gif)
+Es la animación frame a frame, también conocida como la **animación tradicional**, en esta forma de animación pose a pose existen dos métodos distintos la animación directa es animando uno tras otro con un "orden" y Pose a pose se trata de dibujar primero los fotogramas claves para solo rellenas los huecos faltantes, los buenos animadores suelen combinar estas 2 técnicas.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Sequences.gif)
 
 ## **5. Follow Through and Overlapping Action**
 
-**La inercia es la sensación de un objeto se sienta como tal y se mueva con naturalidad ante nuestros ojos.**
+La **inercia** es la sensación de un objeto se sienta como tal y se mueva con naturalidad ante nuestros ojos.
 
-**Por ejemplo este muñeco ratoncito se siente liviano y suave**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Mu%C3%B1eco%20Ratoncito%20shine.gif)
+Por ejemplo este muñeco ratoncito **se siente liviano y suave.**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Mu%C3%B1eco%20Ratoncito%20shine.gif)
 
 ## **6. Slow in and Slow out**
 
-Es la aceleración y la desaceleración, el efecto del movimiento que hace creer que un objeto va con más velocidad o va más lento.
+Es la **aceleración y la desaceleración**, el efecto del movimiento que hace creer que un objeto va con más velocidad o va más lento.
 
 (Sin el principio de Slow in and Slow out)
 
@@ -93,31 +93,31 @@ Es la aceleración y la desaceleración, el efecto del movimiento que hace creer
 
 ## **7. Arcs**
 
-Cada movimiento que hacemos siguen arcos, donde le da más coherencia y más entendible para nuestros ojos, por lo cual cada movimiento en la animación siguen arcos![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20Curves%20Sketch.gif)
+Cada **movimiento** que hacemos **siguen arcos**, donde le da más coherencia y más entendible para nuestros ojos, por lo cual cada movimiento en la animación siguen arcos![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20Curves%20Sketch.gif)
 
 ## **8. Secondary Action**
 
-Es toda aquel objeto o acción secundaria , miren el cinturón de la chica esta animada con un pequeño retraso, para que, de una sensación de realismo y mayor satisfacción visual, o el pan.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Cintur%C3%B3n.gif)
+Es toda **aquel objeto** o **acción secundaria** , miren el cinturón de la chica esta animada con un pequeño retraso, para que, de una sensación de realismo y mayor satisfacción visual.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Cintur%C3%B3n.gif)
 
 ## **9. Timing**
 
-Es la medida del tiempo que se demora en realizar cierta acción, en la animación frame a frame usamos más fotogramas para hacer más lenta la acción y usamos menos para que vaya más veloz la acción.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Timing%20women%20taekwondo.gif)
+Es la **medida del tiempo** que se demora en realizar cierta acción, en la animación frame a frame usamos más fotogramas para hacer más lenta la acción y usamos menos para que vaya más veloz la acción.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Timing%20women%20taekwondo.gif)
 
 ## **10. Exaggeration**
 
-En la animación para dar una sensación más allá, se usa la exageración como recurso, para poder darle más vida a nuestros personajes.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Usseewa%20Ver-3.gif)
+En la animación para dar una **sensación más allá** de nuestra realidad, se usa la exageración como recurso, para poder darle más vida a nuestros personajes.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Usseewa%20Ver-3.gif)
 
 ## ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Rabuka.gif)
 
-![](images/Rabuka.gif)
+
 
 ## **11. Solid Drawing**
 
-Nuestro dibujo en el momento de animar tiene que ser sólido y consistente pensando en 3D, hasta podemos usar software 3d como blender para tener las mejores referencias posibles.![](https://preview--fez-tsu-c0184.stackbit.dev/images/60%20Fps%20Fezu.gif)
+Nuestro dibujo en el momento de animar tiene que ser sólido y consistente **pensando en 3D**, hasta podemos usar software 3d como blender para tener las mejores referencias posibles.![](https://preview--fez-tsu-c0184.stackbit.dev/images/60%20Fps%20Fezu.gif)
 
 ## **12. Appeal**
 
-Es el carisma o lo que atrae y expresa el personaje , asiéndonos simpatizar o identificarnos, ya sea por distintas características de su personalidad o aspectos.
+Es el **carisma o lo que atrae y expresa el personaje** , asiéndonos simpatizar o identificarnos, ya sea por distintas características de su personalidad o aspectos.
 (No necesariamente tiene que ser bonito)
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Appeal.gif)
