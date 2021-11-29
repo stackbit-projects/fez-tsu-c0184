@@ -103,6 +103,10 @@ En la animación para dar una sensación más allá, se usa la exageración como
 
 ![](images/Rabuka.gif)
 
-**11. Solid Drawing**
+## **11. Solid Drawing**
+
+Nuestro dibujo en el momento de animar tiene que ser sólido y consistente pensando en 3D, hasta podemos usar software 3d como blender para tener las mejores referencias posibles.
+
+![](images/60%20Fps%20Fezu.gif)
 
 ## **12. Appeal**
