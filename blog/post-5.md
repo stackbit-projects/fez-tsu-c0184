@@ -85,6 +85,10 @@ Es la aceleración y la desaceleración, el efecto del movimiento que hace creer
 
 ## **7. Arcs**
 
+Cada movimiento que hacemos siguen arcos, donde le da más coherencia y más entendible para nuestros ojos, por lo cual cada movimiento en la animación siguen arcos
+
+****![](images/Pelota%20Curves%20Sketch.gif)
+
 ## **8. Secondary Action**
 
 ## **9. Timing**
