@@ -55,7 +55,7 @@ Para crear este efecto con la pelota solo tenemos que cuando toque el suelo se a
 
 Es una anticipación que le damos al espectador una anticipación de la acción, usando correctamente las proporciones
 
-Por ejemplo, podemos ver como la chica anticipa antes de golpear.
+Por ejemplo, podemos ver como la chica anticipa antes de golpear.![](images/Cintur%C3%B3n.gif)
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anticipation%20Women%20v2.gif)
 
@@ -86,8 +86,6 @@ Es la aceleración y la desaceleración, el efecto del movimiento que hace creer
 ## **7. Arcs**
 
 Cada movimiento que hacemos siguen arcos, donde le da más coherencia y más entendible para nuestros ojos, por lo cual cada movimiento en la animación siguen arcos![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20Curves%20Sketch.gif)
-
-
 
 ## **8. Secondary Action**
 
