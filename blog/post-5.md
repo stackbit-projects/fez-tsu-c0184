@@ -89,7 +89,7 @@ Cada movimiento que hacemos siguen arcos, donde le da más coherencia y más ent
 
 ## **8. Secondary Action**
 
-Es toda aquel objeto o acción secundaria , miren el cinturón de la chica esta animada con un pequeño retraso, para que, de una sensación de realismo y mayor satisfacción visual, o el pan.
+Es toda aquel objeto o acción secundaria , miren el cinturón de la chica esta animada con un pequeño retraso, para que, de una sensación de realismo y mayor satisfacción visual, o el pan.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Cintur%C3%B3n.gif)
 
 ![](images/Cintur%C3%B3n.gif)
 
