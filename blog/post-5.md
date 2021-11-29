@@ -85,7 +85,7 @@ Es la aceleración y la desaceleración, el efecto del movimiento que hace creer
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20SIN%20Slow%20in%20%20Slow%20out.gif)
 
-![](images/Pelota%20SIN%20Slow%20in%20%20Slow%20out.gif)
+(Con el principio Slow in and Slow out)
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
 
