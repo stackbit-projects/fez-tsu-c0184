@@ -83,11 +83,11 @@ Por ejemplo este muñeco ratoncito **se siente liviano y suave.**![](https://pre
 
 Es la **aceleración y la desaceleración**, el efecto del movimiento que hace creer que un objeto va con más velocidad o va más lento.
 
-(Sin el principio de Slow in and Slow out)
+***(Sin el principio de Slow in and Slow out)***
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20SIN%20Slow%20in%20%20Slow%20out.gif)
 
-(Con el principio Slow in and Slow out)
+***(Con el principio Slow in and Slow out)***
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
 
@@ -108,8 +108,6 @@ Es la **medida del tiempo** que se demora en realizar cierta acción, en la anim
 En la animación para dar una **sensación más allá** de nuestra realidad, se usa la exageración como recurso, para poder darle más vida a nuestros personajes.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Usseewa%20Ver-3.gif)
 
 ## ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Rabuka.gif)
-
-
 
 ## **11. Solid Drawing**
 
