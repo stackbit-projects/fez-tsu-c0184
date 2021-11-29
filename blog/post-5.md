@@ -87,9 +87,13 @@ Es la aceleración y la desaceleración, el efecto del movimiento que hace creer
 
 Cada movimiento que hacemos siguen arcos, donde le da más coherencia y más entendible para nuestros ojos, por lo cual cada movimiento en la animación siguen arcos![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20Curves%20Sketch.gif)
 
-![](images/Pelota%20Curves%20Sketch.gif)
+
 
 ## **8. Secondary Action**
+
+Es toda aquel objeto o acción secundaria , miren el cinturón de la chica esta animada con un pequeño retraso, para que, de una sensación de realismo y mayor satisfacción visual, o el pan.
+
+![](images/Cintur%C3%B3n.gif)
 
 ## **9. Timing**
 
