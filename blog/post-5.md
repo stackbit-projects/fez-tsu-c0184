@@ -79,9 +79,7 @@ Es la animación frame a frame, también conocida como la animación tradicional
 
 ## **6. Slow in and Slow out**
 
-***
-
-***
+Es la aceleración y la desaceleración, el efecto del movimiento que hace creer que un objeto va con más velocidad o va más lento.
 
 ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Pelota%20CON%20Slow%20in%20%20Slow%20out.gif)
 
