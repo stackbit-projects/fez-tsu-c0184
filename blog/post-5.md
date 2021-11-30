@@ -7,6 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
+  - lorem-ipsum
 image: images/12 principios de animacion.jpg
 image_alt: Post 5 placeholder image
 excerpt: ¿Sabes cuales son los 12 principios de animación dados por walt disney?
