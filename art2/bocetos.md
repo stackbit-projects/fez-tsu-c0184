@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections: []
 seo:
   title: Bocetos
-  description: ''
+  description: 
   robots: []
   extra: []
 layout: advanced
