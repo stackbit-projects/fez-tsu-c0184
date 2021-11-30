@@ -1,7 +1,7 @@
 ---
 title: Title
 sections:
-  - title: lorem-ipsum
+  - title: Boceto
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
