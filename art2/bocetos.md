@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections: []
 seo:
-  title: ''
+  title: Bocetos
   description: ''
   robots: []
   extra: []
