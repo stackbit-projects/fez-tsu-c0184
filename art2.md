@@ -32,7 +32,9 @@ sections:
             style: primary
       - title: Frame a frame
         content: |
-          Muestra una hoja al convertirse en un ave 
+          **Animación tradicional**
+
+          Muestra una hoja al convertirse en un ave
         align: left
         image: images/Straight Ahead action and pose to pose.gif
         image_alt: Feature 3 placeholder image
