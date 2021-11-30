@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: 
+      value: Bocetos
       keyName: property
     - name: 'og:description'
       value: >-
