@@ -7,7 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
 seo:
-  title: Blog
+  title: Animations
   description: This is the blog page
   extra:
     - name: 'og:type'
