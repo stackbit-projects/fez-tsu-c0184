@@ -14,7 +14,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: /art2/bocetos
             style: primary
         title: Bocetos
       - title: Feature 2
