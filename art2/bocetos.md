@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections: []
 seo:
   title: Bocetos
-  description: My progress and drawing 
+  description: My progress and drawing like a pro
   robots: []
   extra: []
 layout: advanced
