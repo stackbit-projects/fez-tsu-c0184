@@ -14,7 +14,7 @@ sections:
 
 
           #####
-          **Hands**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
+          **H**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)**ands**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
 
 
           ![](images/Bones\&Muscles.jpg)
