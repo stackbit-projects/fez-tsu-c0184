@@ -1,7 +1,7 @@
 ---
 title: Draws
 sections:
-  - title: lorem-ipsum
+  - title: Art Work
     features: []
     type: features_section
 seo:
