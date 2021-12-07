@@ -7,8 +7,9 @@ sections:
   - type: content_section
     content: >
       De pequeño siempre me empezó a gustar el **anime japonés** como dragon
-      ball, también los **creadores de contenido** como **Fernanfloo y más**. Y
-      en los primeros años de mi secundaria la **música.**
+      ball, actualmente me gusta obras como wonder priority por su mensaje
+      detrás. También los **creadores de contenido** como **Fernanfloo y más**.
+      Y en los primeros años de mi secundaria la **música.**
 
 
       Se que perseguir lo que quería y quiero crear de pequeño (no siempre es
@@ -19,6 +20,9 @@ sections:
 
       Así también ser un escritor creando obras filosóficas, ciencia o ficción.
       (original)
+
+
+      ![](images/Fez%20kodomo-60419126.jpg)
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
