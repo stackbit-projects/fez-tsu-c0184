@@ -31,7 +31,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /features
+            url: /features/animations
             style: primary
       - title: Programación
         content: >-
