@@ -17,7 +17,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: /features/art
             style: primary
         title: Arts
       - title: Animations
