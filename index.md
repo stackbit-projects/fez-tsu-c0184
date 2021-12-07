@@ -65,7 +65,8 @@ sections:
     title: Combinar cultura
     subtitle: >-
       Ya sea la animación tradicional estilo japonesa con nuestra cultura
-      latinoamericana. Puede salir cosas realmente increibles
+      latinoamericana. Puede salir cosas realmente increíbles. Además de que
+      podrán saber más idiomas y escuchar nuevas músicas.
     actions:
       - label: Learn More
         url: /features
