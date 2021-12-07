@@ -48,6 +48,9 @@ sections:
       non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
       dui. Integer vel convallis justo.
     type: content_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: ''
   description: ''
