@@ -31,7 +31,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /features
             style: primary
       - title: Programación
         content: >-
