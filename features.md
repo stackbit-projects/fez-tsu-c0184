@@ -84,6 +84,9 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Features
   description: This is the features page
