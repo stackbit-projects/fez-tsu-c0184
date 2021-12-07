@@ -25,7 +25,10 @@ sections:
       ![](images/Fez%20kodomo-60419126.jpg)
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Me considero un multipotencial por tantas cosas que se y nose. Por ahora
+      me enfoco más en animación tradicional 2d siguiendo el estilo Anime
+      Japonés
     actions:
       - label: Contact Us
         url: /contact
