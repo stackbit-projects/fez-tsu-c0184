@@ -13,10 +13,11 @@ sections:
           ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anatomia.jpg)
 
 
-          ##### **Hands**
+          #####
+          **Hands**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
 
 
-          ****![](images/Bones\&Muscles.jpg)
+          ![](images/Bones\&Muscles.jpg)
 
 
           #####
