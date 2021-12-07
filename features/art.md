@@ -16,8 +16,7 @@ sections:
           ##### **Hands**
 
 
-
-
+          ****![](images/Bones\&Muscles.jpg)
 
 
           #####
