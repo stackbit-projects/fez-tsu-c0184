@@ -9,7 +9,7 @@ sections:
       siento que todos lo somos.
     actions:
       - label: Learn More
-        url: /Aboutme
+        url: /about
         style: primary
       - label: Contact Us
         url: /contact
