@@ -62,7 +62,7 @@ sections:
             style: secondary
         image: images/Fez tierno Kodomo.jpg
   - type: cta_section
-    title: This Is A CTA
+    title: Combinar cultura
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
