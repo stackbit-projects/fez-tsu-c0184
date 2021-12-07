@@ -46,9 +46,6 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
-  - title: lorem-ipsum
-    features: []
-    type: features_section
 seo:
   title: Features
   description: This is the features page
