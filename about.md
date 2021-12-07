@@ -19,13 +19,6 @@ sections:
 
       Así también ser un escritor creando obras filosóficas, ciencia o ficción.
       (original)
-  - type: team_section
-    title: Our Team
-    team:
-      - _data/team/dianne-ameter.yaml
-      - _data/team/eleanor-carr.yaml
-      - _data/team/hanson-deck.yaml
-      - _data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
