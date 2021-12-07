@@ -6,9 +6,7 @@ sections:
       - content: |
           ## Anatomía Humana
 
-          ##### **Body**
-
-          ****![](images/Anatomia.jpg)
+          ##### **Body**![](images/Anatomia.jpg)
 
           ##### **Hands**
 
@@ -20,7 +18,7 @@ sections:
 
           ##### **Head**
 
-          ****![](images/Head%20structure.jpg)
+          \*\*\*\*![](images/Head%20structure.jpg)
         align: left
         image_alt: lorem-ipsum
         image_position: left
