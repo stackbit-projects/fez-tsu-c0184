@@ -13,11 +13,12 @@ sections:
           ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anatomia.jpg)
 
 
-          #####
-          **Hands**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
+          ##### **Hands**
 
 
-          ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
+          ****![](images/Bones\&Muscles.jpg)
+
+
 
 
           #####
@@ -25,7 +26,7 @@ sections:
 
 
           #####
-          **Head**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Head%20structure.jpg)
+          **Head**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Head%20structure.jpg)![](images/Bones\&Muscles.jpg)
         align: left
         image_alt: lorem-ipsum
         image_position: left
