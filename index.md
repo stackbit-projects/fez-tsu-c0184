@@ -64,8 +64,8 @@ sections:
   - type: cta_section
     title: Combinar cultura
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Ya sea la animación tradicional estilo japonesa con nuestra cultura
+      latinoamericana. Puede salir cosas realmente increibles
     actions:
       - label: Learn More
         url: /features
