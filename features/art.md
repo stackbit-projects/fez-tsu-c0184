@@ -13,12 +13,10 @@ sections:
           ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anatomia.jpg)
 
 
-          ##### **Hands**
+          ##### ****
 
 
-          ****![](images/kuku%20yohane%20hand.jpg)![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
-
-
+          \*\*\*\*![](images/kuku%20yohane%20hand.jpg)![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
 
 
           #####
