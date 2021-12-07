@@ -3,20 +3,28 @@ title: Draws
 sections:
   - title: Art Work
     features:
-      - content: |
+      - content: >
           ## Anatomía Humana
 
-          ##### **Body**![](images/Anatomia.jpg)
+
+          #####
+          **Body**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anatomia.jpg)![](images/Anatomia.jpg)
+
 
           ##### **Hands**
 
+
           ![](images/Bones\&Muscles.jpg)
+
 
           ##### **Feet**
 
+
           ![](images/Anatomia%20Pies.jpg)
 
+
           ##### **Head**
+
 
           \*\*\*\*![](images/Head%20structure.jpg)
         align: left
