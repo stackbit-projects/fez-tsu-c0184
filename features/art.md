@@ -16,7 +16,7 @@ sections:
           ##### **Hands**
 
 
-          ![](images/kuku%20yohane%20hand.jpg)![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
+          ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
 
 
           #####
