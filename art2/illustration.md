@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Illustration
 sections: []
 seo:
   title: ''
