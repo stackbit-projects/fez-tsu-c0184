@@ -28,7 +28,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /art2/
             style: primary
       - title: Frame a frame
         content: >
