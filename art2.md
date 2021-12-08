@@ -23,7 +23,7 @@ sections:
           illustrator pero es un paso importante para el character design de la
           animación.
         align: left
-        image: images/feature.svg
+        image: images/Kodomo Niña Hand.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
