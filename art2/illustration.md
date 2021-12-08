@@ -10,6 +10,21 @@ sections:
       espesa
 
 
+      ![](images/Kodomo%20Ni%C3%B1a%20Hand.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
       Yohane fue hecho con un estilo pictórico y no tradicional como anime
