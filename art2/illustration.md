@@ -49,6 +49,9 @@ sections:
       #### **Nana**
 
 
+      ****![](https://preview--fez-tsu-c0184.stackbit.dev/images/Nana.jpg)
+
+
       ![](images/Nana.jpg)
 
 
@@ -66,19 +69,17 @@ sections:
 
 
       > Sinceramente no es nada impresionante, pero es porque de esta rama de
-      habilidad no busco dedicarme a ser ilustrador. 
+      habilidad no busco dedicarme a ser ilustrador.
 
       > En cambio en la rama del Game de la Animación. Si que busco algo más
       grande en Latinoamérica y tendrá mucha dificultad.
 
       >
 
-      >
-
       > **Sa Game Hashimeyo**
 
 
-      ****
+      ***
     type: content_section
 seo:
   title: ''
