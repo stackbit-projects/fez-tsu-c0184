@@ -13,6 +13,12 @@ sections:
       ![](images/Kodomo%20Ni%C3%B1a%20Hand.jpg)
 
 
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Kodomo%20Ni%C3%B1a%20Hand.jpg)
+
+
+      ![](images/Manos-Picture-Darktone.jpg)
+
+
 
 
 
