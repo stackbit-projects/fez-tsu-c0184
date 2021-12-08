@@ -2,10 +2,9 @@
 title: Title
 sections:
   - title: Bocetos
-    content: |+
-
-
+    content: >
       ## Perspective
+
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Perspectives.jpg)
 
@@ -13,8 +12,10 @@ sections:
 
 
 
-      ![](images/Body%20Structure%20in%20Cilindros.jpg)
 
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Body%20Structure%20in%20Cilindros.jpg)
     type: content_section
 seo:
   title: Bocetos
