@@ -9,7 +9,7 @@ sections:
       - content: |
           Estos bocetos se hicieron para practicar la anatomía humana
         align: left
-        image: images/Anatomia Cuerpo Poses.jpg
+        image: images/Analisis 16-05-21.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
