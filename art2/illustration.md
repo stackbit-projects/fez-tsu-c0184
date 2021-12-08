@@ -2,7 +2,7 @@
 title: Illustration and Characters Design
 sections:
   - title: Illustration Techniques
-    content: >+
+    content: >
       ## Pintura
 
 
@@ -40,16 +40,7 @@ sections:
       ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Eris%20sama%20kawai%20angry.jpg)
 
 
-
-
-      ![](images/Eris%20sama%20kawai%20angry.jpg)
-
-
-
-
-
-
-
+      ![](images/Eris%20sama%20Recort.jpg)
     type: content_section
 seo:
   title: ''
