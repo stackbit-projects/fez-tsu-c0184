@@ -20,6 +20,9 @@ sections:
       japonés.
 
 
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Yohane.jpg)
+
+
       ![](images/Yohane.jpg)
 
 
