@@ -52,8 +52,10 @@ sections:
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Nana.jpg)
 
 
-      ##### *Ai-chan de Wonder egg Priority (Colores
-      apagados)*![](https://preview--fez-tsu-c0184.stackbit.dev/images/Ai.png)**Nao
+      ##### *Ai-chan de Wonder egg Priority (Colores apagados)*
+
+
+      **![](https://preview--fez-tsu-c0184.stackbit.dev/images/Ai.png)**Nao
       Tomori** ese es un recolor, pero lo hice para saber los colores que se
       usaban en ese estilo de dibujo como la sombra, lo hice en Marzo de
       2021![](https://preview--fez-tsu-c0184.stackbit.dev/images/Nao%20Tomori.jpg)
