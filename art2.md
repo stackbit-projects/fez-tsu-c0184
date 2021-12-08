@@ -31,10 +31,13 @@ sections:
             url: /style-guide
             style: primary
       - title: Frame a frame
-        content: |
+        content: >
           **Animación tradicional**
 
-          Muestra una hoja al convertirse en un ave
+
+          Muestra una hoja al convertirse en un ave. Normalmente me enfoco en la
+          animación estilo anime japonés. Es más apasionante esas animaciones y
+          tengo aún muchas ideas y proyectos que cumplir desuwa
         align: left
         image: images/Straight Ahead action and pose to pose.gif
         image_alt: Feature 3 placeholder image
