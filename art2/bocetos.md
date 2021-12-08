@@ -2,19 +2,31 @@
 title: Title
 sections:
   - title: Bocetos
-    content: >
-      ## Perspective
+    content: >+
+      ## Perspectiva
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Perspectives.jpg)
 
 
-
-
-      ## Body with Cylinder
+      ## Cuerpo Cilíndrico 
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Body%20Structure%20in%20Cilindros.jpg)
+
+
+
+
+
+
+
+
+      ![](images/Perspectives%20and%20Female%20Body.jpg)
+
+
+
+
+
     type: content_section
 seo:
   title: Bocetos
