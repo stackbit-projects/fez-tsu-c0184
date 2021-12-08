@@ -61,6 +61,10 @@ sections:
       ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Ai.png)
 
 
+
+
+
+
       **Nao Tomori** ese es un recolor, pero lo hice para saber los colores que
       se usaban en ese estilo de dibujo como la sombra, lo hice en Marzo de 2021
 
