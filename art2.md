@@ -44,7 +44,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /animations
+            url: /art2/animations
             style: primary
 seo:
   title: Features
