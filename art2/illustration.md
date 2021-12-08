@@ -38,7 +38,6 @@ sections:
       すばらしい![](https://preview--fez-tsu-c0184.stackbit.dev/images/Eris%20sama%20kawai%20angry.jpg)
 
 
-      ![](images/Eris%20sama%20kawai%20angry.jpg)
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Eris%20sama%20Recort.jpg)
