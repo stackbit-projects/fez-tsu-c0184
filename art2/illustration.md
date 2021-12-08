@@ -20,6 +20,9 @@ sections:
       japonés.
 
 
+      ![](images/Yohane.jpg)
+
+
       ## Fan-Arts
 
 
