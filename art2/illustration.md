@@ -34,13 +34,51 @@ sections:
 
       Ps: Las tabletas gráficas son algo caras, así que casi todo el 2020 ahorre
       para comprarme una "económica" de $200. Sería increíble que con esa
-      tableta "económica" haga cosas enormes y
-      すばらしい![](https://preview--fez-tsu-c0184.stackbit.dev/images/Eris%20sama%20kawai%20angry.jpg)
+      tableta "económica" haga cosas enormes y すばらしい
 
 
+      #### **Eris**
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Eris%20sama%20kawai%20angry.jpg)
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Eris%20sama%20Recort.jpg)
+
+
+      #### **Nana**
+
+
+      ![](images/Nana.jpg)
+
+
+      Ai-chan de Wonder egg Priority (Colores)
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Ai.png)
+
+
+      **Nao Tomori** ese es un recolor, pero lo hice para saber los colores que
+      se usaban en ese estilo de dibujo como la sombra, lo hice en Marzo de 2021
+
+
+      ![](images/Nao%20Tomori.jpg)
+
+
+      > Sinceramente no es nada impresionante, pero es porque de esta rama de
+      habilidad no busco dedicarme a ser ilustrador. 
+
+      > En cambio en la rama del Game de la Animación. Si que busco algo más
+      grande en Latinoamérica y tendrá mucha dificultad.
+
+      >
+
+      >
+
+      > **Sa Game Hashimeyo**
+
+
+      ****
     type: content_section
 seo:
   title: ''
