@@ -1,7 +1,7 @@
 ---
 title: Illustration and Characters Design
 sections:
-  - title: Illustration Technique
+  - title: Illustration Techniques
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
