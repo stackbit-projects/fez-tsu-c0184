@@ -34,13 +34,8 @@ sections:
 
       Ps: Las tabletas gráficas son algo caras, así que casi todo el 2020 ahorre
       para comprarme una "económica" de $200. Sería increíble que con esa
-      tableta "económica" haga cosas enormes y すばらしい
-
-
-
-
-
-
+      tableta "económica" haga cosas enormes y
+      すばらしい![](https://preview--fez-tsu-c0184.stackbit.dev/images/Eris%20sama%20kawai%20angry.jpg)
 
 
       ![](images/Eris%20sama%20kawai%20angry.jpg)
