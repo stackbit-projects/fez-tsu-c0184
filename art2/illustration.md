@@ -7,10 +7,7 @@ sections:
 
 
       Fue hecho en Clip Studio Paint usando los pinceles de acuarela y pintura
-      espesa
-
-
-      ![](images/Kodomo%20Ni%C3%B1a%20Hand.jpg)
+      espesa.
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Kodomo%20Ni%C3%B1a%20Hand.jpg)
