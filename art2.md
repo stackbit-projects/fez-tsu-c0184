@@ -18,10 +18,10 @@ sections:
             style: primary
         title: Bocetos
       - title: Arts & Techniques
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Probando nuevos pinceles y distintas formas de ilustrar, no soy
+          illustrator pero es un paso importante para el character design de la
+          animación.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
