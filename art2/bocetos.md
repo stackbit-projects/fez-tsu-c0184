@@ -3,7 +3,13 @@ title: Title
 sections:
   - title: Bocetos
     content: |
-      ![](images/Perspectives.jpg)
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Perspectives.jpg)
+
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Perspectives.jpg)
     type: content_section
 seo:
   title: Bocetos
