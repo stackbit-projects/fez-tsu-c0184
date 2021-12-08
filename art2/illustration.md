@@ -52,15 +52,11 @@ sections:
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Nana.jpg)
 
 
-      Ai-chan de Wonder egg Priority (Colores)
+      Ai-chan de Wonder egg Priority (Colores
+      apagados)![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Ai.png)
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Ai.png)
-
-
-      ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Ai.png)
-
-
 
 
 
