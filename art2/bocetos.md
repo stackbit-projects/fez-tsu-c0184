@@ -11,8 +11,7 @@ sections:
 
 
 
-
-
+      ## Body with Cylinder
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Body%20Structure%20in%20Cilindros.jpg)
