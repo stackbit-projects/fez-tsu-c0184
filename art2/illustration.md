@@ -2,7 +2,7 @@
 title: Illustration and Characters Design
 sections:
   - title: Illustration Techniques
-    content: >
+    content: >+
       ## Pintura
 
 
@@ -23,8 +23,6 @@ sections:
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Yohane.jpg)
 
 
-
-
       ## Fan-Arts
 
 
@@ -37,6 +35,21 @@ sections:
       Ps: Las tabletas gráficas son algo caras, así que casi todo el 2020 ahorre
       para comprarme una "económica" de $200. Sería increíble que con esa
       tableta "económica" haga cosas enormes y すばらしい
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Eris%20sama%20kawai%20angry.jpg)
+
+
+
+
+      ![](images/Eris%20sama%20kawai%20angry.jpg)
+
+
+
+
+
+
+
     type: content_section
 seo:
   title: ''
