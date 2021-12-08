@@ -2,7 +2,7 @@
 title: Animations
 sections:
   - type: hero_section
-    title: Animations
+    title: Blog
     align: center
   - type: blog_feed_section
     show_recent: false
