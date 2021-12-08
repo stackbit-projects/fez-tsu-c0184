@@ -1,5 +1,5 @@
 ---
-title: Illustration
+title: 'Illustration and '
 sections: []
 seo:
   title: ''
