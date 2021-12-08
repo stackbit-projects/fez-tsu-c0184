@@ -59,15 +59,14 @@ sections:
       2021![](https://preview--fez-tsu-c0184.stackbit.dev/images/Nao%20Tomori.jpg)
 
 
-
-
       > Sinceramente no es nada impresionante, pero es porque de esta rama de
       habilidad no busco dedicarme a ser ilustrador.
 
       > En cambio en la rama del Game de la Animación. Si que busco algo más
       grande en Latinoamérica y tendrá mucha dificultad. Talvez me estoy cegando
-      con mi ingenuidad de adolescente pero prefiero intentarlo a no hacer nada,
-      talvez muera(lo cual es muy probable) pero lo apostare ***Todo***
+      con mi ingenuidad de adolescente y mi positivismo de las cosas pero
+      prefiero intentarlo a no hacer nada, talvez muera(lo cual es muy probable)
+      pero lo apostare ***Todo***
 
       >
 
