@@ -67,7 +67,7 @@ sections:
       > En cambio en la rama del **Game de la Animación**. Si que busco algo
       **más ambicioso** en **Latinoamérica** y tendrá mucha dificultad. Talvez
       me estoy cegando con mi ingenuidad de adolescente y mi positivismo de las
-      cosas pero prefiero intentarlo a no hacer nada, talvez muera(lo cual es
+      cosas, pero prefiero intentarlo a no hacer nada, talvez muera(lo cual es
       muy probable) pero lo apostare ***Todo.***
 
       >
