@@ -2,7 +2,7 @@
 title: Illustration and Characters Design
 sections:
   - title: Illustration Techniques
-    content: >+
+    content: >
       ## Pintura
 
 
@@ -10,20 +10,10 @@ sections:
       espesa
 
 
-      ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Kodomo%20Ni%C3%B1a%20Hand.jpg)
-
-
-
-
-
-
-      ![](https://preview--fez-tsu-c0184.stackbit.dev/\_static/app-assets/Kodomo%20Ni%C3%B1a%20Hand.jpg)
 
 
       Yohane fue hecho con un estilo pictórico y no tradicional como anime
       japonés.
-
-
 
 
       ## Fan-Arts
@@ -38,7 +28,6 @@ sections:
       Ps: Las tabletas gráficas son algo caras, así que casi todo el 2020 ahorre
       para comprarme una "económica" de $200. Sería increíble que con esa
       tableta "económica" haga cosas enormes y すばらしい
-
     type: content_section
 seo:
   title: ''
