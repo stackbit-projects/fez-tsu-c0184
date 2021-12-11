@@ -15,7 +15,6 @@ sections:
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Fez%20Rebeld.jpg)
 
 
-      ![](images/Fez%20tierno%20Kodomo.jpg)
 
 
       ##
