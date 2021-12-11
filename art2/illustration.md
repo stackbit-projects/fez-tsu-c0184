@@ -12,6 +12,11 @@ sections:
       cambiaba.
 
 
+
+
+      ![](images/Perspectiva.jpg)
+
+
       ![](images/Fez%20Rebeld.jpg)
 
 
