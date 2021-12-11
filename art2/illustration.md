@@ -18,9 +18,8 @@ sections:
       ![](images/Fez%20tierno%20Kodomo.jpg)
 
 
-
-
-      ## Pintura
+      ##
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Fez%20tierno%20Kodomo.jpg)Pintura
 
 
       Fue hecho en Clip Studio Paint usando los pinceles de acuarela y pintura
