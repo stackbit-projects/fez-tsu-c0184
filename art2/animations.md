@@ -3,8 +3,7 @@ title: animations
 sections:
   - title: Sketchs
     content: >
-      #
-      Fez![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo%20soredake.gif)
+      # Fez
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo%20soredake.gif)
