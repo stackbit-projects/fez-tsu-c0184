@@ -6,6 +6,7 @@ sections:
       # A
 
 
+      ![](images/Game%20Hashimeyo%20soredake.gif)
 
 
       Clips Principios de
