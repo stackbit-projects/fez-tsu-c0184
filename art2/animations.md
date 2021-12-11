@@ -1,7 +1,7 @@
 ---
 title: animations
 sections:
-  - title: lorem-ipsum
+  - title: Sketchs
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
