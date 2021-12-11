@@ -3,7 +3,8 @@ title: animations
 sections:
   - title: Sketchs
     content: >
-      # A
+      #
+      A![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)
 
 
       ![](images/Game%20Hashimeyo\_3.gif)
@@ -14,8 +15,6 @@ sections:
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Straight%20Ahead%20action%20and%20pose%20to%20pose.gif)
-
-
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Roll%20Camera%20A50.gif)
