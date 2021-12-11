@@ -19,6 +19,12 @@ sections:
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Perspectives%20and%20Female%20Body.jpg)
+
+
+      ## Fotografía
+
+
+      ![](images/Japonesa%20kakoi%202.jpg)
     type: content_section
 seo:
   title: Bocetos
