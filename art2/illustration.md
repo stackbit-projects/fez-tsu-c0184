@@ -6,7 +6,7 @@ sections:
       ## Me
 
 
-      Dibujos para lograr traer al \*\*real game\*\* mi conciencia que me
+      Dibujos para lograr traer al **\*\*real game\*\*** mi conciencia que me
       imaginaba o me veía realmente así desde **kodomo** y con las demás
       personalidades que fueron cambiando mientras mi vida o mi forma de ser
       cambiaba.
