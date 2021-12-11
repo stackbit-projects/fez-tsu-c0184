@@ -3,7 +3,7 @@ title: Illustration and Characters Design
 sections:
   - title: Illustration Techniques
     content: >
-      ## Me
+      ## Fezsu
 
 
       Dibujos para lograr traer al **real game** mi conciencia que me imaginaba
