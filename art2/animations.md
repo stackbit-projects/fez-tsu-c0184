@@ -3,11 +3,9 @@ title: animations
 sections:
   - title: Sketchs
     content: >
-      #
-      A![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)
+      # A
 
 
-      ![](images/Game%20Hashimeyo\_3.gif)
 
 
       Clips Principios de
