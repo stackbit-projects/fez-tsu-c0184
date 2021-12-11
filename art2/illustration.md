@@ -3,6 +3,14 @@ title: Illustration and Characters Design
 sections:
   - title: Illustration Techniques
     content: >
+      ## Me
+
+
+      Dibujos para lograr traer al realg
+
+
+
+
       ## Pintura
 
 
