@@ -12,7 +12,7 @@ sections:
       cambiaba.![](https://preview--fez-tsu-c0184.stackbit.dev/images/Perspectiva.jpg)
 
 
-      ![](images/Perspectiva.jpg)
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Fez%20Rebeld.jpg)
 
 
       ![](images/Fez%20Rebeld.jpg)
