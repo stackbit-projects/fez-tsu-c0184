@@ -25,7 +25,7 @@ sections:
       Fotografía![](https://preview--fez-tsu-c0184.stackbit.dev/images/Japonesa%20kakoi%202.jpg)
 
     type: content_section
-  - title: lorem-ipsum
+  - title: Hands Practice
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
