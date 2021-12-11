@@ -6,7 +6,8 @@ sections:
       # A
 
 
-      Clips Principios de Animación
+      Clips Principios de
+      Animación![](https://preview--fez-tsu-c0184.stackbit.dev/images/Usseewa%20Ver-3.gif)
 
 
       ![](images/Usseewa%20Ver-3.gif)
