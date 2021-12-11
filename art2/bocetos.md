@@ -21,7 +21,8 @@ sections:
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Perspectives%20and%20Female%20Body.jpg)
 
 
-      ## Fotografía
+      ##
+      Fotografía![](https://preview--fez-tsu-c0184.stackbit.dev/images/Japonesa%20kakoi%202.jpg)
 
 
       ![](images/Japonesa%20kakoi%202.jpg)
