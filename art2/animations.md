@@ -4,13 +4,13 @@ sections:
   - title: Sketchs
     content: >
       #
-      A![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo%20soredake.gif)
+      Fez![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo%20soredake.gif)
 
 
-      ![](images/Game%20Hashimeyo%20soredake.gif)
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo%20soredake.gif)
 
 
-      Clips Principios de
+      ## Clips Principios de
       Animación![](https://preview--fez-tsu-c0184.stackbit.dev/images/Usseewa%20Ver-3.gif)
 
 
