@@ -3,36 +3,20 @@ title: animations
 sections:
   - title: Sketchs
     content: >
-      # A
+      #
+      A![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)
 
 
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)
+
+
+      ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)
 
 
       ![](images/Game%20Hashimeyo\_3.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo\_3.gif)
