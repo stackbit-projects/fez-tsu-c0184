@@ -13,8 +13,7 @@ sections:
           ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Anatomia.jpg)
 
 
-          #####
-          **Hands**![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
+          ##### **Hands**
 
 
           ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Bones\&Muscles.jpg)
