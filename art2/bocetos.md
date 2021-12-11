@@ -2,7 +2,7 @@
 title: Title
 sections:
   - title: Bocetos
-    content: >
+    content: >+
       ## Perspectiva
 
 
@@ -24,8 +24,6 @@ sections:
       ##
       Fotografía![](https://preview--fez-tsu-c0184.stackbit.dev/images/Japonesa%20kakoi%202.jpg)
 
-
-      ![](images/Japonesa%20kakoi%202.jpg)
     type: content_section
 seo:
   title: Bocetos
