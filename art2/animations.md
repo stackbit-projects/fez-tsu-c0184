@@ -1,5 +1,5 @@
 ---
-title: a
+title: animations
 sections: []
 seo:
   title: ''
