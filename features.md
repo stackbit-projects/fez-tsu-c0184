@@ -26,7 +26,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: images/feature.svg
+        image: images/Game Hashimeyo soredake-a8816a1c.gif
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
