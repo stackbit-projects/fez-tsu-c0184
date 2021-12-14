@@ -36,11 +36,8 @@ sections:
       - title: Programación
         content: >
           Por el momento solo se, JavaScript y NodeJS, Html y CSS. FullStack por
-          así decirlo.
-
-
-          Mis siguientes lenguajes de programación de mi interés: Solidity,
-          Python y Go
+          así decirlo. Mis siguientes lenguajes de programación de mi interés:
+          Solidity, Python y Go
         align: left
         image: images/Lingo Kids Game.png
         image_alt: Feature 3 placeholder image
