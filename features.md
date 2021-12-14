@@ -34,10 +34,21 @@ sections:
             url: /features/animations
             style: primary
       - title: Programación
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Por el momento solo se, JavaScript y NodeJS, Html y CSS. FullStack por
+          así decirlo.
+
+
+          Mis siguientes lenguajes de programación de mi interés:
+
+
+          1.  Solidity
+
+
+          2.  Python
+
+
+          3.  Go
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
