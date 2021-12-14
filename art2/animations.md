@@ -6,6 +6,10 @@ sections:
       ## Fez
 
 
+      Se pueden dar una idea de el estilo de mis animaciones. Sera más como un
+      formato y estilo de video
+
+
       ![](https://preview--fez-tsu-c0184.stackbit.dev/images/Game%20Hashimeyo%20soredake.gif)
 
 
