@@ -42,7 +42,7 @@ sections:
           Mis siguientes lenguajes de programación de mi interés: Solidity,
           Python y Go
         align: left
-        image: images/feature.svg
+        image: images/Lingo Kids Game.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
