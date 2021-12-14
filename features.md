@@ -39,16 +39,8 @@ sections:
           así decirlo.
 
 
-          Mis siguientes lenguajes de programación de mi interés:
-
-
-          1.  Solidity
-
-
-          2.  Python
-
-
-          3.  Go
+          Mis siguientes lenguajes de programación de mi interés: Solidity,
+          Python y Go
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
