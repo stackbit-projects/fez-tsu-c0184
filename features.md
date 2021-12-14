@@ -7,10 +7,9 @@ sections:
     align: center
   - type: features_section
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >
+          A lo largo del 2021 dibuje muchas cosas para saber los fundamentos de
+          una manera veloz 
         align: left
         image: images/Model Fes All.jpg
         image_alt: Feature 1 placeholder image
