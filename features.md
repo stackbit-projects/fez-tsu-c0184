@@ -20,10 +20,8 @@ sections:
             style: primary
         title: Arts
       - title: Animations
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          A lo que voy a apostar
         align: left
         image: images/Game Hashimeyo soredake-a8816a1c.gif
         image_alt: Feature 2 placeholder image
