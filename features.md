@@ -41,7 +41,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog
+            url: /features/programacion
             style: primary
       - title: lorem-ipsum
         content: >-
